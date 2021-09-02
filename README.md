@@ -1,4 +1,4 @@
-Bangalore Metropolitain Transport Corporation Network Data
+Bangalore Metropolitain Transport Corporation Network Data ([Article](https://blog.mapbox.com/mapping-public-transit-in-bangalore-32cb80d18e02))
 ====
 
 [Bangalore Metropolitan Transport Corporation](https://en.wikipedia.org/wiki/Bangalore_Metropolitan_Transport_Corporation) operates over 2000 routes. We [scraped](https://github.com/openbangalore/bmtc) some of the data to understand this network better.
